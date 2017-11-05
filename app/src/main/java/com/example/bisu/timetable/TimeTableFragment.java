@@ -74,35 +74,35 @@ public class TimeTableFragment extends Fragment {
                             m2.setText(entry.getKey());
                             break;
                         case "M8":
-                            TextView m3 = (TextView)rootView.findViewById(R.id.m3);
+                            TextView m3 = (TextView)rootView.findViewById(R.id.m8);
                             m3.setText(entry.getKey());
                             break;
                         case "M9":
-                            TextView m4 = (TextView)rootView.findViewById(R.id.m4);
+                            TextView m4 = (TextView)rootView.findViewById(R.id.m9);
                             m4.setText(entry.getKey());
                             break;
                         case "M10":
-                            TextView m5 = (TextView)rootView.findViewById(R.id.m5);
+                            TextView m5 = (TextView)rootView.findViewById(R.id.m10);
                             m5.setText(entry.getKey());
                             break;
                         case "M1":
-                            TextView m8 = (TextView)rootView.findViewById(R.id.m8);
+                            TextView m8 = (TextView)rootView.findViewById(R.id.m1);
                             m8.setText(entry.getKey());
                             break;
                         case "M2":
-                            TextView m9 = (TextView)rootView.findViewById(R.id.m9);
+                            TextView m9 = (TextView)rootView.findViewById(R.id.m2);
                             m9.setText(entry.getKey());
                             break;
                         case "M3":
-                            TextView m10 = (TextView)rootView.findViewById(R.id.m10);
+                            TextView m10 = (TextView)rootView.findViewById(R.id.m3);
                             m10.setText(entry.getKey());
                             break;
                         case "M4":
-                            TextView m11 = (TextView)rootView.findViewById(R.id.m11);
+                            TextView m11 = (TextView)rootView.findViewById(R.id.m4);
                             m11.setText(entry.getKey());
                             break;
                         case "M5":
-                            TextView m12 = (TextView)rootView.findViewById(R.id.m12);
+                            TextView m12 = (TextView)rootView.findViewById(R.id.m5);
                             m12.setText(entry.getKey());
                             break;
                         case "T6":
@@ -114,35 +114,35 @@ public class TimeTableFragment extends Fragment {
                             t2.setText(entry.getKey());
                             break;
                         case "T8":
-                            TextView t3 = (TextView)rootView.findViewById(R.id.t3);
+                            TextView t3 = (TextView)rootView.findViewById(R.id.t8);
                             t3.setText(entry.getKey());
                             break;
                         case "T9":
-                            TextView t4 = (TextView)rootView.findViewById(R.id.t4);
+                            TextView t4 = (TextView)rootView.findViewById(R.id.t9);
                             t4.setText(entry.getKey());
                             break;
                         case "T10":
-                            TextView t5 = (TextView)rootView.findViewById(R.id.t5);
+                            TextView t5 = (TextView)rootView.findViewById(R.id.t10);
                             t5.setText(entry.getKey());
                             break;
                         case "T1":
-                            TextView t8 = (TextView)rootView.findViewById(R.id.t8);
+                            TextView t8 = (TextView)rootView.findViewById(R.id.t1);
                             t8.setText(entry.getKey());
                             break;
                         case "T2":
-                            TextView t9 = (TextView)rootView.findViewById(R.id.t9);
+                            TextView t9 = (TextView)rootView.findViewById(R.id.t2);
                             t9.setText(entry.getKey());
                             break;
                         case "T3":
-                            TextView t10 = (TextView)rootView.findViewById(R.id.t10);
+                            TextView t10 = (TextView)rootView.findViewById(R.id.t3);
                             t10.setText(entry.getKey());
                             break;
                         case "T4":
-                            TextView t11 = (TextView)rootView.findViewById(R.id.t11);
+                            TextView t11 = (TextView)rootView.findViewById(R.id.t4);
                             t11.setText(entry.getKey());
                             break;
                         case "T5":
-                            TextView t12 = (TextView)rootView.findViewById(R.id.t12);
+                            TextView t12 = (TextView)rootView.findViewById(R.id.t3);
                             t12.setText(entry.getKey());
                             break;
                         case "W6":
@@ -154,35 +154,35 @@ public class TimeTableFragment extends Fragment {
                             w2.setText(entry.getKey());
                             break;
                         case "W8":
-                            TextView w3 = (TextView)rootView.findViewById(R.id.w3);
+                            TextView w3 = (TextView)rootView.findViewById(R.id.w8);
                             w3.setText(entry.getKey());
                             break;
                         case "W9":
-                            TextView w4 = (TextView)rootView.findViewById(R.id.w4);
+                            TextView w4 = (TextView)rootView.findViewById(R.id.w9);
                             w4.setText(entry.getKey());
                             break;
                         case "W10":
-                            TextView w5 = (TextView)rootView.findViewById(R.id.w5);
+                            TextView w5 = (TextView)rootView.findViewById(R.id.w10);
                             w5.setText(entry.getKey());
                             break;
                         case "W1":
-                            TextView w8 = (TextView)rootView.findViewById(R.id.w8);
+                            TextView w8 = (TextView)rootView.findViewById(R.id.w1);
                             w8.setText(entry.getKey());
                             break;
                         case "W2":
-                            TextView w9 = (TextView)rootView.findViewById(R.id.w9);
+                            TextView w9 = (TextView)rootView.findViewById(R.id.w2);
                             w9.setText(entry.getKey());
                             break;
                         case "W3":
-                            TextView w10 = (TextView)rootView.findViewById(R.id.w10);
+                            TextView w10 = (TextView)rootView.findViewById(R.id.w3);
                             w10.setText(entry.getKey());
                             break;
                         case "W4":
-                            TextView w11 = (TextView)rootView.findViewById(R.id.w11);
+                            TextView w11 = (TextView)rootView.findViewById(R.id.w4);
                             w11.setText(entry.getKey());
                             break;
                         case "W5":
-                            TextView w12 = (TextView)rootView.findViewById(R.id.w12);
+                            TextView w12 = (TextView)rootView.findViewById(R.id.w5);
                             w12.setText(entry.getKey());
                             break;
                         case "H6":
@@ -194,35 +194,35 @@ public class TimeTableFragment extends Fragment {
                             h2.setText(entry.getKey());
                             break;
                         case "H8":
-                            TextView h3 = (TextView)rootView.findViewById(R.id.h3);
+                            TextView h3 = (TextView)rootView.findViewById(R.id.h8);
                             h3.setText(entry.getKey());
                             break;
                         case "H9":
-                            TextView h4 = (TextView)rootView.findViewById(R.id.h4);
+                            TextView h4 = (TextView)rootView.findViewById(R.id.h9);
                             h4.setText(entry.getKey());
                             break;
                         case "H10":
-                            TextView h5 = (TextView)rootView.findViewById(R.id.h5);
+                            TextView h5 = (TextView)rootView.findViewById(R.id.h10);
                             h5.setText(entry.getKey());
                             break;
                         case "H1":
-                            TextView h8 = (TextView)rootView.findViewById(R.id.h8);
+                            TextView h8 = (TextView)rootView.findViewById(R.id.h1);
                             h8.setText(entry.getKey());
                             break;
                         case "H2":
-                            TextView h9 = (TextView)rootView.findViewById(R.id.h9);
+                            TextView h9 = (TextView)rootView.findViewById(R.id.h2);
                             h9.setText(entry.getKey());
                             break;
                         case "H3":
-                            TextView h10 = (TextView)rootView.findViewById(R.id.h10);
+                            TextView h10 = (TextView)rootView.findViewById(R.id.h3);
                             h10.setText(entry.getKey());
                             break;
                         case "H4":
-                            TextView h11 = (TextView)rootView.findViewById(R.id.h11);
+                            TextView h11 = (TextView)rootView.findViewById(R.id.h4);
                             h11.setText(entry.getKey());
                             break;
                         case "H5":
-                            TextView h12 = (TextView)rootView.findViewById(R.id.h12);
+                            TextView h12 = (TextView)rootView.findViewById(R.id.h5);
                             h12.setText(entry.getKey());
                             break;
                         case "F6":
@@ -234,35 +234,35 @@ public class TimeTableFragment extends Fragment {
                             f2.setText(entry.getKey());
                             break;
                         case "F8":
-                            TextView f3 = (TextView)rootView.findViewById(R.id.f3);
+                            TextView f3 = (TextView)rootView.findViewById(R.id.f8);
                             f3.setText(entry.getKey());
                             break;
                         case "F9":
-                            TextView f4 = (TextView)rootView.findViewById(R.id.f4);
+                            TextView f4 = (TextView)rootView.findViewById(R.id.f9);
                             f4.setText(entry.getKey());
                             break;
                         case "F10":
-                            TextView f5 = (TextView)rootView.findViewById(R.id.f5);
+                            TextView f5 = (TextView)rootView.findViewById(R.id.f10);
                             f5.setText(entry.getKey());
                             break;
                         case "F1":
-                            TextView f8 = (TextView)rootView.findViewById(R.id.f8);
+                            TextView f8 = (TextView)rootView.findViewById(R.id.f1);
                             f8.setText(entry.getKey());
                             break;
                         case "F2":
-                            TextView f9 = (TextView)rootView.findViewById(R.id.f9);
+                            TextView f9 = (TextView)rootView.findViewById(R.id.f2);
                             f9.setText(entry.getKey());
                             break;
                         case "F3":
-                            TextView f10 = (TextView)rootView.findViewById(R.id.f10);
+                            TextView f10 = (TextView)rootView.findViewById(R.id.f3);
                             f10.setText(entry.getKey());
                             break;
                         case "F4":
-                            TextView f11 = (TextView)rootView.findViewById(R.id.f11);
+                            TextView f11 = (TextView)rootView.findViewById(R.id.f4);
                             f11.setText(entry.getKey());
                             break;
                         case "F5":
-                            TextView f12 = (TextView)rootView.findViewById(R.id.f12);
+                            TextView f12 = (TextView)rootView.findViewById(R.id.f5);
                             f12.setText(entry.getKey());
                             break;
                         case "S6":
@@ -274,35 +274,35 @@ public class TimeTableFragment extends Fragment {
                             s2.setText(entry.getKey());
                             break;
                         case "S8":
-                            TextView s3 = (TextView)rootView.findViewById(R.id.s3);
+                            TextView s3 = (TextView)rootView.findViewById(R.id.s8);
                             s3.setText(entry.getKey());
                             break;
                         case "S9":
-                            TextView s4 = (TextView)rootView.findViewById(R.id.s4);
+                            TextView s4 = (TextView)rootView.findViewById(R.id.s9);
                             s4.setText(entry.getKey());
                             break;
                         case "S10":
-                            TextView s5 = (TextView)rootView.findViewById(R.id.s5);
+                            TextView s5 = (TextView)rootView.findViewById(R.id.s10);
                             s5.setText(entry.getKey());
                             break;
                         case "S1":
-                            TextView s8 = (TextView)rootView.findViewById(R.id.s8);
+                            TextView s8 = (TextView)rootView.findViewById(R.id.s1);
                             s8.setText(entry.getKey());
                             break;
                         case "S2":
-                            TextView s9 = (TextView)rootView.findViewById(R.id.s9);
+                            TextView s9 = (TextView)rootView.findViewById(R.id.s2);
                             s9.setText(entry.getKey());
                             break;
                         case "S3":
-                            TextView s10 = (TextView)rootView.findViewById(R.id.s10);
+                            TextView s10 = (TextView)rootView.findViewById(R.id.s3);
                             s10.setText(entry.getKey());
                             break;
                         case "S4":
-                            TextView s11 = (TextView)rootView.findViewById(R.id.s11);
+                            TextView s11 = (TextView)rootView.findViewById(R.id.s4);
                             s11.setText(entry.getKey());
                             break;
                         case "S5":
-                            TextView s12 = (TextView)rootView.findViewById(R.id.s12);
+                            TextView s12 = (TextView)rootView.findViewById(R.id.s5);
                             s12.setText(entry.getKey());
                             break;
                         default:
